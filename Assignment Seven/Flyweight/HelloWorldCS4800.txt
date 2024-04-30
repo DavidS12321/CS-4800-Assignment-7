@@ -1,0 +1,10 @@
+H:Arial,12,Red
+e:Calibri,14,Blue
+l:Verdana,16,Black
+l:Calibri,16,Yellow
+o:Times New Roman,12,Green
+w:Verdana,14,Green
+o:Arial,12,Black
+r:Calibri,12,Yellow
+l:Times New Roman,14,Red
+d:Arial,16,Blue
